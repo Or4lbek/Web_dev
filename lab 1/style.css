@@ -1,0 +1,66 @@
+
+.menu{
+    background-color:#18A9DF;
+    height: 90px;
+}
+.container{
+    width:1140px ;
+    margin: 0 auto;
+}
+ul{
+    list-style-type: none;
+    padding: 30px;
+}
+
+li{
+    font-size: 25px;
+    color: white;
+    display: inline;
+    margin-left: 90px;
+
+}
+.tbl{
+    width: 35%;
+    height: 350px;
+    text-align:center;
+    left: 40%;
+    position: absolute;
+    padding: 45px;
+
+}
+table{
+    width: 100%;
+}   
+img{
+    padding: 45px;
+    margin-left: 150px;
+    height: 70%;
+    width: 50%;
+    
+}
+.suret{
+    height: 350px;
+    width: 40%;
+    left: 0;
+    position: absolute;
+    
+}
+hr{
+    margin-top :335px ;
+    width:1140px;
+    margin-bottom:0px ;
+}
+    
+.txt{
+    margin-top:0px;
+    text-align: center;
+    font-size:20px ;
+}
+
+p{
+    margin-top:0px ;
+    width: 940px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}

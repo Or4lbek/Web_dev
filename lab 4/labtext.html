@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab 4</title>   
+</head>
+<body>
+ <script>
+     //asignment 1
+     calc(5,"+",4);
+    
+
+function calc(a,operat,b){
+    if (operat == "+"){
+        c = a + b;
+        document.write("The sum is: "+c+"<br>");
+    }
+    else if (operat == "-"){
+        c = a - b;
+        document.write("The substraction is: "+c+"<br>");
+    }
+    else if (operat == "*"){
+        c = a*b;
+        document.write("The multiplication is: "+c+"<br>");
+    }
+    else if (operat == "/"){
+        c = a/b;
+        document.write("The division is: "+c+"<br>");
+    }
+    else if (operat == "%"){
+        c = a%b;
+        document.write(""+c+"<br>");
+    }
+    else{
+        document.write("Operators can only be the following: +, -, *, /"+"<br>");
+    }
+    document.write("<br>");
+
+    // asignment 2
+    var a = new Date(2001,06,12);
+    var b = new Date();
+    //b is currient  date
+    var year = b.getFullYear() - a.getFullYear() ;
+    // only FullYear (2020)
+    var year_to_day = year * 365;
+    var month = Math.abs(b.getMonth() - a.getMonth()) ;
+    var month_to_day = month*30;
+    var day = b.getDate() - a.getDate()-1;
+    var cur = (year_to_day) + (month_to_day) + day;
+
+    document.write("I have lived "+cur + "days"+"<br>");
+
+
+    // asignment 3 
+    var td = 400;
+    evodd(td)
+    function evodd(td){
+        for(var i = 1;i<=td;i++){
+            if (td%i==0){
+                document.write(i+"<br>");
+            }
+        }
+    }
+}
+ </script>   
+</body>
+</html>
