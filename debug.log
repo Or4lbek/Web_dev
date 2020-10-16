@@ -1,0 +1,19 @@
+[1014/214910.684:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1015/010513.472:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1015/010513.488:ERROR:exception_snapshot_win.cc(99)] thread ID 9744 not found in process
+[1015/010513.472:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1015/010513.472:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1015/010513.472:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1015/010513.488:ERROR:exception_snapshot_win.cc(99)] thread ID 1876 not found in process
+[1015/010513.488:ERROR:exception_snapshot_win.cc(99)] thread ID 3660 not found in process
+[1015/010513.472:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1015/010513.488:ERROR:exception_snapshot_win.cc(99)] thread ID 8292 not found in process
+[1015/010513.488:ERROR:exception_snapshot_win.cc(99)] thread ID 8908 not found in process
+[1015/010513.488:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[1015/010513.488:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[1015/010513.488:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[1015/010513.488:ERROR:process_info.cc(329)] VirtualQueryEx: Отказано в доступе. (0x5)
+[1015/010513.488:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1015/010513.550:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1015/010513.550:ERROR:exception_snapshot_win.cc(99)] thread ID 6260 not found in process
+[1015/191307.074:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
